@@ -10,7 +10,9 @@ export const metadata: Metadata = {
   title: "Love in a Box | Luxury Gifting Atelier",
   description: "Curated luxury gift boxes, bespoke floral arrangements, and artisan sweets. Elevating the art of gifting.",
   icons: {
-    icon: '/favicon.ico', // Ensure you have a favicon in your public folder!
+    // START CHANGE: This is where we point to your new icon
+    icon: '/icon.png', 
+    // END CHANGE (If your file is .jpg, change this to '/icon.jpg')
   },
   openGraph: {
     title: "Love in a Box | Luxury Gifting Atelier",

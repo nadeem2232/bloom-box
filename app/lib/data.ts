@@ -29,7 +29,7 @@ export const heroSlides = [
 
 // --- 4. PRODUCTS (Strictly Typed) ---
 export const allProducts: Product[] = [
-  { id: 'b1', type: 'vessel', name: 'The Signature Hatbox', price: 50, image: '/box.jpg', description: 'A velvet embrace for your most treasured memories.', keywords: ['box'] },
+  { id: 'b1', type: 'vessel', name: 'The Signature Hatbox', price: 55, image: '/box.jpg', description: 'A velvet embrace for your most treasured memories.', keywords: ['box'] },
   { id: 'b2', type: 'vessel', name: 'The Minimalist Crate', price: 35, image: '/crate.jpg', description: 'Raw elegance, grounded in nature’s simple beauty.', keywords: ['crate'] },
   { id: 'f1', type: 'flower', name: 'Red Roses', price: 120, image: '/roses.jpg', description: 'Passion whispered in layers of deep crimson velvet.', keywords: ['rose'] },
   { id: 'f2', type: 'flower', name: 'Pink Tulips', price: 95, image: '/tulips.jpg', description: 'Soft whispers of spring’s first blush.', keywords: ['tulip'] },
